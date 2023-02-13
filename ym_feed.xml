@@ -9,6 +9,7 @@
     </currencies>
     <categories>
       <category id="21809">22.ИНСТРУМЕНТ ЭЛЕКТРИКА</category>
+      <category id="21880" parentId="21809">22.01.ЗАЧИСТКА И ОБЖИМ</category>
       <category id="22010" parentId="21880">22.01.03.ЗАТЯГИВАНИЕ СТЯЖЕК</category>
     </categories>
     <offers>
