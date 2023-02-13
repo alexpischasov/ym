@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yml_catalog date="2023-02-03 15:21">
+  <shop>
+    <name>Rev.ru</name>
+    <company>Rev.ru</company>
+    <url>https://www.rev.ru/</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="21789">01.ЛЮСТРЫ</category>
+      <category id="21812" parentId="21789">01.01.ЛЮСТРЫ СВЕТОДИОДНЫЕ</category>
+      <category id="21890" parentId="21812">01.01.01.ПОТОЛОЧНЫЕ</category>
+      <category id="22030" parentId="21890">01.01.01.01.MONZA</category>
+      <category id="22031" parentId="21890">01.01.01.02.VEROLI</category>
+      <category id="22032" parentId="21890">01.01.01.03.ROLO</category>
+      <category id="22033" parentId="21890">01.01.01.04.SPOLETO</category>
+      <category id="22034" parentId="21890">01.01.01.05.FIUGGI</category>
+      <category id="22035" parentId="21890">01.01.01.06.MALTA</category>
+      <category id="22036" parentId="21890">01.01.01.07.VENEZIA</category>
+      <category id="22037" parentId="21890">01.01.01.08.CALABRIA</category>
+      <category id="22038" parentId="21890">01.01.01.09.VERONA</category>
+      <category id="22039" parentId="21890">01.01.01.10.VILLA</category>
+      <category id="22040" parentId="21890">01.01.01.11.COMO</category>
+      <category id="22041" parentId="21890">01.01.01.12.VILORIA</category>
+      <category id="22042" parentId="21890">01.01.01.13.LUCERA</category>
+      <category id="22043" parentId="21890">01.01.01.14.TRAMPOLI</category>
+      <category id="22044" parentId="21890">01.01.01.15.TREIA</category>
+      <category id="22045" parentId="21890">01.01.01.16.KOLAR</category>
+      <category id="22046" parentId="21890">01.01.01.17.LUCINO</category>
+      <category id="22047" parentId="21890">01.01.01.18.BRIENNO</category>
+      <category id="22048" parentId="21890">01.01.01.19.BREZZO</category>
+      <category id="22049" parentId="21890">01.01.01.20.CRYSTAL 3D</category>
+      <category id="22050" parentId="21890">01.01.01.21.NOTO</category>
+      <category id="22051" parentId="21890">01.01.01.22.ETRO</category>
+      <category id="22052" parentId="21890">01.01.01.23.DOMINO</category>
+      <category id="22053" parentId="21890">01.01.01.24.SCANDIA</category>
+      <category id="22397" parentId="21890">01.01.01.25.ECLIPSE</category>
+      <category id="22398" parentId="21890">01.01.01.26.RIVO</category>
+      <category id="22399" parentId="21890">01.01.01.27.NOVITA</category>
+      <category id="22400" parentId="21890">01.01.01.28.ALBERO</category>
+      <category id="22401" parentId="21890">01.01.01.29.RIFLESSO</category>
+      <category id="22402" parentId="21890">01.01.01.30.FARFALLA</category>
+      <category id="22403" parentId="21890">01.01.01.31.ALTO</category>
+      <category id="22404" parentId="21890">01.01.01.32.PENSATA</category>
+      <category id="24579" parentId="21890">01.01.01.33.TERAMO</category>
+      <category id="24580" parentId="21890">01.01.01.34.TOMASO</category>
+      <category id="30584" parentId="21890">01.01.01.35.MOLTO</category>
+      <category id="30793" parentId="21890">01.01.01.36.UFO</category>
+      <category id="30794" parentId="21890">01.01.01.37.ATELLA</category>
+      <category id="30795" parentId="21890">01.01.01.38.FLORENCE</category>
+      <category id="30796" parentId="21890">01.01.01.39.QUADRO</category>
+      <category id="30797" parentId="21890">01.01.01.40.PALERMO</category>
+      <category id="30798" parentId="21890">01.01.01.41.VELTA</category>
+      <category id="30799" parentId="21890">01.01.01.42.KLEVIS</category>
+      <category id="30800" parentId="21890">01.01.01.43.FARRE</category>
+      <category id="30801" parentId="21890">01.01.01.44.MONDELLO</category>
+      <category id="30803" parentId="21890">01.01.01.45.VALLE</category>
+      <category id="30804" parentId="21890">01.01.01.46.RIETI</category>
+      <category id="72269" parentId="21890">01.01.01.47.CARINO</category>
+      <category id="21813" parentId="21789">01.02.ЛЮСТРЫ ПОД ЛАМПОЧКУ</category>
+      <category id="21891" parentId="21813">01.02.01.ПОТОЛОЧНЫЕ</category>
+      <category id="22054" parentId="21891">01.02.01.01.FABERO</category>
+      <category id="22055" parentId="21891">01.02.01.02.NAPOLI</category>
+      <category id="22056" parentId="21891">01.02.01.03.ROYAL</category>
+      <category id="22057" parentId="21891">01.02.01.04.FABIANO</category>
+      <category id="22058" parentId="21891">01.02.01.05.RIMINI</category>
+      <category id="22059" parentId="21891">01.02.01.06.VEGAS</category>
+      <category id="22060" parentId="21891">01.02.01.07.PADOVA</category>
+      <category id="22061" parentId="21891">01.02.01.08.BARI</category>
+      <category id="22062" parentId="21891">01.02.01.09.PALERMO</category>
+      <category id="22063" parentId="21891">01.02.01.10.VERONA</category>
+      <category id="22064" parentId="21891">01.02.01.11.CATANIA</category>
+      <category id="22065" parentId="21891">01.02.01.12.MESSINA</category>
+      <category id="22066" parentId="21891">01.02.01.13.PRATO</category>
+      <category id="22067" parentId="21891">01.02.01.14.SALERNO</category>
+      <category id="22068" parentId="21891">01.02.01.15.TORINO</category>
+      <category id="22069" parentId="21891">01.02.01.16.AREZZO</category>
+      <category id="22070" parentId="21891">01.02.01.17.NOVARA</category>
+      <category id="22071" parentId="21891">01.02.01.18.FIRENZE</category>
+      <category id="22072" parentId="21891">01.02.01.19.RAVENNA</category>
+      <category id="22073" parentId="21891">01.02.01.20.PARMA</category>
+      <category id="22074" parentId="21891">01.02.01.21.MONZA</category>
+      <category id="22075" parentId="21891">01.02.01.22.BARLETTA</category>
+      <category id="22076" parentId="21891">01.02.01.23.TIVOLI</category>
+      <category id="22077" parentId="21891">01.02.01.24.ANZIO</category>
+      <category id="30805" parentId="21891">01.02.01.25.TARANTO</category>
+      <category id="30806" parentId="21891">01.02.01.26.MODENA</category>
+      <category id="53020" parentId="21891">01.02.01.27.VOLANTE</category>
+      <category id="53023" parentId="21891">01.02.01.28.HALM</category>
+      <category id="21892" parentId="21813">01.02.02.ПОДВЕСНЫЕ</category>
+      <category id="22078" parentId="21892">01.02.02.01.FERRARA</category>
+      <category id="22079" parentId="21892">01.02.02.02.FORLI</category>
+      <category id="21814" parentId="21789">01.03.АКСЕССУАРЫ ДЛЯ ЛЮСТР</category>
+      <category id="21893" parentId="21814">01.03.01.ПЛАФОНЫ</category>
+      <category id="21790">02.СВЕТИЛЬНИКИ БЫТОВЫЕ</category>
+      <category id="21815" parentId="21790">02.01.НАСТЕННО-ПОТОЛОЧНЫЕ</category>
+      <category id="21894" parentId="21815">02.01.01.СВЕТОДИОДНЫЕ С АЛИСОЙ</category>
+      <category id="22080" parentId="21894">02.01.01.01.BRILLIANCE</category>
+      <category id="22081" parentId="21894">02.01.01.02.STONE</category>
+      <category id="22082" parentId="21894">02.01.01.03.SATURN</category>
+      <category id="22083" parentId="21894">02.01.01.04.MIRA</category>
+      <category id="21895" parentId="21815">02.01.02.СВЕТОДИДНЫЕ С ПУЛЬТОМ Д/У</category>
+      <category id="22084" parentId="21895">02.01.02.01.BRILLIANCE</category>
+      <category id="22085" parentId="21895">02.01.02.02.DIAMOND</category>
+      <category id="22086" parentId="21895">02.01.02.03.GALAXY</category>
+      <category id="22087" parentId="21895">02.01.02.04.AVALON</category>
+      <category id="22088" parentId="21895">02.01.02.05.MIRA</category>
+      <category id="21896" parentId="21815">02.01.03.СВЕТОДИДНЫЕ БЕЗ ПУЛЬТА Д/У</category>
+      <category id="22089" parentId="21896">02.01.03.01.BRILLIANCE</category>
+      <category id="22090" parentId="21896">02.01.03.02.STARDUST</category>
+      <category id="22091" parentId="21896">02.01.03.03.ASOLO ORBIT</category>
+      <category id="22092" parentId="21896">02.01.03.04.STONE</category>
+      <category id="22093" parentId="21896">02.01.03.05.IRIS</category>
+      <category id="22094" parentId="21896">02.01.03.06.UNICA</category>
+      <category id="21897" parentId="21815">02.01.04.RGB</category>
+      <category id="21816" parentId="21790">02.02.НАСТЕННЫЕ</category>
+      <category id="21898" parentId="21816">02.02.01.СВЕТОДИОДНЫЕ</category>
+      <category id="22095" parentId="21898">02.02.01.01.POLERMO</category>
+      <category id="22096" parentId="21898">02.02.01.02.ROLO</category>
+      <category id="22097" parentId="21898">02.02.01.03.FLORENCE</category>
+      <category id="22098" parentId="21898">02.02.01.04.TRIERA</category>
+      <category id="22099" parentId="21898">02.02.01.05.TRAMPOLI</category>
+      <category id="22100" parentId="21898">02.02.01.06.SHELL</category>
+      <category id="21817" parentId="21790">02.03.ПОДВЕСНЫЕ</category>
+      <category id="21899" parentId="21817">02.03.01.ПОД ЛАМПОЧКУ</category>
+      <category id="22101" parentId="21899">02.03.01.01.NO NAME</category>
+      <category id="22102" parentId="21899">02.03.01.02.MERCURY</category>
+      <category id="22103" parentId="21899">02.03.01.03.TOQUE</category>
+      <category id="22104" parentId="21899">02.03.01.04.DOME</category>
+      <category id="22105" parentId="21899">02.03.01.05.HALF-BALL</category>
+      <category id="22106" parentId="21899">02.03.01.06.SPHERE</category>
+      <category id="22107" parentId="21899">02.03.01.07.HAT</category>
+      <category id="22108" parentId="21899">02.03.01.08.HELIX</category>
+      <category id="22109" parentId="21899">02.03.01.09.JUTE</category>
+      <category id="22110" parentId="21899">02.03.01.10.CURLY</category>
+      <category id="22111" parentId="21899">02.03.01.11.ATOM</category>
+      <category id="22112" parentId="21899">02.03.01.12.GLASSY</category>
+      <category id="22113" parentId="21899">02.03.01.13.MIRROR</category>
+      <category id="22114" parentId="21899">02.03.01.14.MONKEY</category>
+      <category id="22115" parentId="21899">02.03.01.15.STENCIL</category>
+      <category id="22116" parentId="21899">02.03.01.16.FLUTE</category>
+      <category id="22117" parentId="21899">02.03.01.17.MECCANA</category>
+      <category id="22118" parentId="21899">02.03.01.18.SHIFT</category>
+      <category id="22119" parentId="21899">02.03.01.19.BALOONS</category>
+      <category id="22120" parentId="21899">02.03.01.20.FABLE</category>
+      <category id="22121" parentId="21899">02.03.01.21.COBBLE</category>
+      <category id="22122" parentId="21899">02.03.01.22.ELECTRIC</category>
+      <category id="22123" parentId="21899">02.03.01.23.CLOUD</category>
+      <category id="22124" parentId="21899">02.03.01.24.HERB</category>
+      <category id="22125" parentId="21899">02.03.01.25.VIAL</category>
+      <category id="22126" parentId="21899">02.03.01.26.GLEAM</category>
+      <category id="22127" parentId="21899">02.03.01.27.ARCUS</category>
+      <category id="22128" parentId="21899">02.03.01.28.HAWAII</category>
+      <category id="22129" parentId="21899">02.03.01.29.SPLASH</category>
+      <category id="22130" parentId="21899">02.03.01.30.THE J</category>
+      <category id="22131" parentId="21899">02.03.01.31.HALM</category>
+      <category id="21818" parentId="21790">02.04.НАСТОЛЬНЫЕ</category>
+      <category id="21900" parentId="21818">02.04.01.ПОД ЛАМПОЧКУ</category>
+      <category id="22132" parentId="21900">02.04.01.01.MIX</category>
+      <category id="22133" parentId="21900">02.04.01.02.CRINILINE</category>
+      <category id="22134" parentId="21900">02.04.01.03.VERGE</category>
+      <category id="22135" parentId="21900">02.04.01.04.BUDDY</category>
+      <category id="22136" parentId="21900">02.04.01.05.SQUAMA</category>
+      <category id="22137" parentId="21900">02.04.01.06.BISCUIT</category>
+      <category id="22138" parentId="21900">02.04.01.07.CHIPPY</category>
+      <category id="22139" parentId="21900">02.04.01.08.STENCIL</category>
+      <category id="22140" parentId="21900">02.04.01.09.TWIGS</category>
+      <category id="21819" parentId="21790">02.05.НАПОЛЬНЫЕ</category>
+      <category id="21901" parentId="21819">02.05.01.ПОД ЛАМПОЧКУ</category>
+      <category id="21820" parentId="21790">02.06.СПОТЫ</category>
+      <category id="21902" parentId="21820">02.06.01.ПОДВЕСНЫЕ</category>
+      <category id="22141" parentId="21902">02.06.01.01.GU10</category>
+      <category id="22142" parentId="21902">02.06.01.02.3  </category>
+      <category id="22143" parentId="21902">02.06.01.03.СВЕТОДИОДНЫЕ</category>
+      <category id="21903" parentId="21820">02.06.02.НАКЛАДНЫЕ</category>
+      <category id="22144" parentId="21903">02.06.02.01.GU10</category>
+      <category id="22145" parentId="21903">02.06.02.02.GU5.3</category>
+      <category id="22146" parentId="21903">02.06.02.03.GX53</category>
+      <category id="22147" parentId="21903">02.06.02.04.СВЕТОДИОДНЫЕ</category>
+      <category id="21904" parentId="21820">02.06.03.ВСТРАИВАЕМЫЕ</category>
+      <category id="22148" parentId="21904">02.06.03.01.GU10</category>
+      <category id="22149" parentId="21904">02.06.03.02.GX53</category>
+      <category id="22150" parentId="21904">02.06.03.03.GU5.3</category>
+      <category id="22151" parentId="21904">02.06.03.04.СВЕТОДИОДНЫЕ</category>
+      <category id="21791">04.АКСЕССУАРЫ ДЛЯ СВЕТИЛЬНИКОВ</category>
+      <category id="21821" parentId="21791">04.01.ВЫКЛЮЧАТЕЛИ-ШНУРКИ</category>
+      <category id="21822" parentId="21791">04.02.ВЫКЛЮЧАТЕЛИ НА ПРОВОД</category>
+      <category id="21823" parentId="21791">04.03.ПРОВОДА С ВИЛКОЙ</category>
+      <category id="21824" parentId="21791">04.04.ПРОВОДА С ВИЛКОЙ И ВЫКЛЮЧАТЕЛЕМ</category>
+      <category id="21825" parentId="21791">04.05.ПРОВОДА С ВИЛКОЙ И НАПОЛЬНЫМ ВЫКЛЮЧАТЕЛЕМ</category>
+      <category id="21826" parentId="21791">04.06.ДИСТАНЦИОННОЕ УПРАВЛЕНИЕ</category>
+      <category id="21792">05.ЛАМПОЧКИ</category>
+      <category id="21827" parentId="21792">05.01.ЛАМПОЧКИ ДЛЯ ОСВЕЩЕНИЯ</category>
+      <category id="21905" parentId="21827">05.01.01.E27</category>
+      <category id="22152" parentId="21905">05.01.01.01.СВЕТОДИОДНЫЕ</category>
+      <category id="22300" parentId="22152">05.01.01.01.01.ГРУША 5 Вт</category>
+      <category id="22301" parentId="22152">05.01.01.01.02.ГРУША 7 Вт</category>
+      <category id="22302" parentId="22152">05.01.01.01.03.ГРУША 8,5 Вт</category>
+      <category id="22303" parentId="22152">05.01.01.01.04.ГРУША 10 Вт</category>
+      <category id="22304" parentId="22152">05.01.01.01.05.ГРУША 13 Вт</category>
+      <category id="22305" parentId="22152">05.01.01.01.06.ГРУША 16 Вт</category>
+      <category id="22306" parentId="22152">05.01.01.01.07.ГРУША 20 Вт</category>
+      <category id="22307" parentId="22152">05.01.01.01.08.ГРУША 25 Вт</category>
+      <category id="22308" parentId="22152">05.01.01.01.09.ШАР 5 Вт</category>
+      <category id="22309" parentId="22152">05.01.01.01.10.ШАР 7 Вт</category>
+      <category id="22310" parentId="22152">05.01.01.01.11.ШАР 9 Вт</category>
+      <category id="22311" parentId="22152">05.01.01.01.12.ШАР 11 Вт</category>
+      <category id="22312" parentId="22152">05.01.01.01.13.СВЕЧА 5 Вт</category>
+      <category id="22313" parentId="22152">05.01.01.01.14.СВЕЧА 7 Вт</category>
+      <category id="22314" parentId="22152">05.01.01.01.15.СВЕЧА 9 Вт</category>
+      <category id="22315" parentId="22152">05.01.01.01.16.СВЕЧА 11Вт</category>
+      <category id="22316" parentId="22152">05.01.01.01.17.РЕФЛЕКТОР 5 Вт</category>
+      <category id="22317" parentId="22152">05.01.01.01.18.РЕФЛЕКТОР 8 Вт</category>
+      <category id="22318" parentId="22152">05.01.01.01.19.КОЛОКОЛ 30 Вт - 100 Вт</category>
+      <category id="22153" parentId="21905">05.01.01.02.ФИЛАМЕНТ</category>
+      <category id="22319" parentId="22153">05.01.01.02.01.ГРУША 5 Вт</category>
+      <category id="22320" parentId="22153">05.01.01.02.02.ГРУША 7 Вт</category>
+      <category id="22321" parentId="22153">05.01.01.02.03.ГРУША 9 Вт</category>
+      <category id="22322" parentId="22153">05.01.01.02.04.ГРУША 11 Вт</category>
+      <category id="22323" parentId="22153">05.01.01.02.05.ГРУША 13 Вт</category>
+      <category id="22324" parentId="22153">05.01.01.02.06.ШАР 5 Вт</category>
+      <category id="22325" parentId="22153">05.01.01.02.07.ШАР 7 Вт</category>
+      <category id="22326" parentId="22153">05.01.01.02.08.СВЕЧА 5 Вт</category>
+      <category id="22327" parentId="22153">05.01.01.02.09.СВЕЧА 7 Вт</category>
+      <category id="22328" parentId="22153">05.01.01.02.10.СВЕЧА  ВИТАЯ 5 Вт</category>
+      <category id="22329" parentId="22153">05.01.01.02.11.СВЕЧА  ВИТАЯ 7 Вт</category>
+      <category id="22330" parentId="22153">05.01.01.02.12.СВЕЧА НА ВЕТРУ 5 Вт</category>
+      <category id="22331" parentId="22153">05.01.01.02.13.СВЕЧА НА ВЕТРУ 7 Вт</category>
+      <category id="21906" parentId="21827">05.01.02.E14</category>
+      <category id="22154" parentId="21906">05.01.02.01.СВЕТОДИОДНЫЕ</category>
+      <category id="22332" parentId="22154">05.01.02.01.01.ШАР 5 Вт</category>
+      <category id="22333" parentId="22154">05.01.02.01.02.ШАР 7 Вт</category>
+      <category id="22334" parentId="22154">05.01.02.01.03.ШАР 9 Вт</category>
+      <category id="22335" parentId="22154">05.01.02.01.04.ШАР 11 Вт</category>
+      <category id="22336" parentId="22154">05.01.02.01.05.СВЕЧА 5 Вт</category>
+      <category id="22337" parentId="22154">05.01.02.01.06.СВЕЧА 7 Вт</category>
+      <category id="22338" parentId="22154">05.01.02.01.07.СВЕЧА 9 Вт</category>
+      <category id="22339" parentId="22154">05.01.02.01.08.СВЕЧА 11 Вт</category>
+      <category id="22340" parentId="22154">05.01.02.01.09.СВЕЧА НА ВЕТРУ 5 Вт</category>
+      <category id="22341" parentId="22154">05.01.02.01.10.СВЕЧА НА ВЕТРУ 7 Вт</category>
+      <category id="22342" parentId="22154">05.01.02.01.11.СВЕЧА НА ВЕТРУ 9 Вт</category>
+      <category id="22343" parentId="22154">05.01.02.01.12.СВЕЧА НА ВЕТРУ 11 Вт</category>
+      <category id="22344" parentId="22154">05.01.02.01.13.РЕФЛЕКТОР 3 Вт</category>
+      <category id="22345" parentId="22154">05.01.02.01.14.РЕФЛЕКТОР 5 Вт</category>
+      <category id="22346" parentId="22154">05.01.02.01.15.РЕФЛЕКТОР 7 Вт</category>
+      <category id="22155" parentId="21906">05.01.02.02.ФИЛАМЕНТ</category>
+      <category id="22347" parentId="22155">05.01.02.02.01.ШАР  5 Вт</category>
+      <category id="22348" parentId="22155">05.01.02.02.02.ШАР  7 Вт</category>
+      <category id="22349" parentId="22155">05.01.02.02.03.СВЕЧА  5 Вт</category>
+      <category id="22350" parentId="22155">05.01.02.02.04.СВЕЧА  7 Вт</category>
+      <category id="22351" parentId="22155">05.01.02.02.05.СВЕЧА ВИТАЯ  5 Вт</category>
+      <category id="22352" parentId="22155">05.01.02.02.06.СВЕЧА ВИТАЯ  7 Вт</category>
+      <category id="22353" parentId="22155">05.01.02.02.07.СВЕЧА НА ВЕТРУ  5 Вт</category>
+      <category id="22354" parentId="22155">05.01.02.02.08.СВЕЧА НА ВЕТРУ  7 Вт</category>
+      <category id="21907" parentId="21827">05.01.03.GU5.3</category>
+      <category id="22156" parentId="21907">05.01.03.01.СОФИТ</category>
+      <category id="22355" parentId="22156">05.01.03.01.01.12 В  3 Вт</category>
+      <category id="22356" parentId="22156">05.01.03.01.02.12 В  5 Вт</category>
+      <category id="22357" parentId="22156">05.01.03.01.03.12 В  7 Вт</category>
+      <category id="22358" parentId="22156">05.01.03.01.04.220 В  3 Вт</category>
+      <category id="22359" parentId="22156">05.01.03.01.05.220 В  5 Вт</category>
+      <category id="22360" parentId="22156">05.01.03.01.06.220 В  7 Вт</category>
+      <category id="22361" parentId="22156">05.01.03.01.07.220 В  9 Вт</category>
+      <category id="21908" parentId="21827">05.01.04.GU10</category>
+      <category id="22157" parentId="21908">05.01.04.01.СОФИТ</category>
+      <category id="22362" parentId="22157">05.01.04.01.01.3 Вт</category>
+      <category id="22363" parentId="22157">05.01.04.01.02.5 Вт</category>
+      <category id="22364" parentId="22157">05.01.04.01.03.7 Вт</category>
+      <category id="21909" parentId="21827">05.01.05.GX53</category>
+      <category id="22158" parentId="21909">05.01.05.01.ТАБЛЕТКА</category>
+      <category id="22365" parentId="22158">05.01.05.01.01.8 Вт</category>
+      <category id="22366" parentId="22158">05.01.05.01.02.10 Вт</category>
+      <category id="22367" parentId="22158">05.01.05.01.03.12 Вт</category>
+      <category id="22368" parentId="22158">05.01.05.01.04.16 Вт</category>
+      <category id="21910" parentId="21827">05.01.06.JC/JCD</category>
+      <category id="22159" parentId="21910">05.01.06.01.JC</category>
+      <category id="22369" parentId="22159">05.01.06.01.01.12 В  1,6 Вт</category>
+      <category id="22370" parentId="22159">05.01.06.01.02.220 В  2,5 Вт</category>
+      <category id="22160" parentId="21910">05.01.06.02.JCD</category>
+      <category id="22371" parentId="22160">05.01.06.02.01.1,6 Вт</category>
+      <category id="22372" parentId="22160">05.01.06.02.02.3 Вт</category>
+      <category id="22373" parentId="22160">05.01.06.02.03.6 Вт</category>
+      <category id="21911" parentId="21827">05.01.07.T5</category>
+      <category id="22161" parentId="21911">05.01.07.01.JCD</category>
+      <category id="22374" parentId="22161">05.01.07.01.01.6 Вт</category>
+      <category id="21912" parentId="21827">05.01.08.T8</category>
+      <category id="22162" parentId="21912">05.01.08.01.JCD</category>
+      <category id="22375" parentId="22162">05.01.08.01.01.6 Вт</category>
+      <category id="21828" parentId="21792">05.02.ДЕКОРАТИВНЫЕ ЛАМПОЧКИ</category>
+      <category id="21913" parentId="21828">05.02.01.E27</category>
+      <category id="22163" parentId="21913">05.02.01.01.ШАР</category>
+      <category id="22376" parentId="22163">05.02.01.01.01.2700К</category>
+      <category id="22377" parentId="22163">05.02.01.01.02.RGB</category>
+      <category id="22164" parentId="21913">05.02.01.02.КОНУС</category>
+      <category id="22378" parentId="22164">05.02.01.02.01.2700К</category>
+      <category id="22379" parentId="22164">05.02.01.02.02.RGB</category>
+      <category id="22165" parentId="21913">05.02.01.03.КРИСТАЛЛ</category>
+      <category id="22166" parentId="21913">05.02.01.04.БРИЛЛИАНТ</category>
+      <category id="21793">06.ОФИСНОЕ ОСВЕЩЕНИЕ</category>
+      <category id="21829" parentId="21793">06.01.ЛИНЕЙНЫЕ СВЕТИЛЬНИКИ</category>
+      <category id="21914" parentId="21829">06.01.01.LED T5</category>
+      <category id="21915" parentId="21829">06.01.02.ОФИСНЫЕ SPO / DPO</category>
+      <category id="22167" parentId="21915">06.01.02.01.ПОД LED ЛАМПУ Т8</category>
+      <category id="22168" parentId="21915">06.01.02.02.LED 4000К</category>
+      <category id="22169" parentId="21915">06.01.02.03.LED 6500К</category>
+      <category id="22170" parentId="21915">06.01.02.04.DPO и SPO 4000К</category>
+      <category id="22171" parentId="21915">06.01.02.05.DPO и SPO 6500К</category>
+      <category id="22172" parentId="21915">06.01.02.06.DPO PRIZMA 4000К </category>
+      <category id="22173" parentId="21915">06.01.02.07.DPO PRIZMA 6500К </category>
+      <category id="22174" parentId="21915">06.01.02.08.DPO OPAL 4000К</category>
+      <category id="22175" parentId="21915">06.01.02.09.DPO OPAL 6500К </category>
+      <category id="21916" parentId="21829">06.01.03.ВЛАГОЗАЩИЩЕННЫЕ ССП и DSP</category>
+      <category id="22176" parentId="21916">06.01.03.01.4000К</category>
+      <category id="22177" parentId="21916">06.01.03.02.6500К</category>
+      <category id="21830" parentId="21793">06.03.ХОЗЯЙСТВЕННО-БЫТОВЫЕ СВЕТИЛЬНИКИ</category>
+      <category id="21918" parentId="21830">06.03.01.КРУГЛЫЕ ПОД ЛАМПОЧКУ</category>
+      <category id="22181" parentId="21918">06.03.01.01.IP54</category>
+      <category id="21919" parentId="21830">06.03.02.КРУГЛЫЕ LED</category>
+      <category id="22182" parentId="21919">06.03.02.01.IP65</category>
+      <category id="22386" parentId="22182">06.03.02.01.01.БЕЗ ДАТЧИКА ДВИЖЕНИЯ</category>
+      <category id="22387" parentId="22182">06.03.02.01.02.С ДАТЧИКОМ ДВИЖЕНИЯ</category>
+      <category id="21920" parentId="21830">06.03.03.ОВАЛЬНЫЕ ПОД ЛАМПОЧКУ</category>
+      <category id="22183" parentId="21920">06.03.03.01.IP20</category>
+      <category id="22184" parentId="21920">06.03.03.02.IP54</category>
+      <category id="21921" parentId="21830">06.03.04.ОВАЛЬНЫЕ LED</category>
+      <category id="22185" parentId="21921">06.03.04.01.IP65</category>
+      <category id="21922" parentId="21830">06.03.05.ЛИНЕЙНЫЕ</category>
+      <category id="22186" parentId="21922">06.03.05.01.IP 65</category>
+      <category id="21923" parentId="21830">06.03.06.КВАДРАТНЫЕ</category>
+      <category id="22187" parentId="21923">06.03.06.01.IP 44</category>
+      <category id="22188" parentId="21923">06.03.06.02.IP 54</category>
+      <category id="21917" parentId="21793">06.02.СВЕТОВЫЕ ПАНЕЛИ</category>
+      <category id="22178" parentId="21917">06.02.01.КВАДРАТНЫЕ</category>
+      <category id="22380" parentId="22178">06.02.01.01.УНИВЕРСАЛЬНЫЕ 4000К</category>
+      <category id="22381" parentId="22178">06.02.01.02.УНИВЕРСАЛЬНЫЕ 6500К</category>
+      <category id="22382" parentId="22178">06.02.01.03.ВСТРАИВАЕМЫЕ</category>
+      <category id="22179" parentId="21917">06.02.02.ПРЯМОУГОЛЬНЫЕ</category>
+      <category id="22180" parentId="21917">06.02.03.КРУГЛЫЕ</category>
+      <category id="22383" parentId="22180">06.02.03.01.НАКЛАДНЫЕ</category>
+      <category id="22384" parentId="22180">06.02.03.02.ВСТРАИВАЕМЫЕ 6500К</category>
+      <category id="22385" parentId="22180">06.02.03.03.ВСТРАИВАЕМЫЕ 6000К</category>
+      <category id="21794">07.ОСВЕЩЕНИЕ ДЛЯ РАСТЕНИЙ</category>
+      <category id="21831" parentId="21794">07.01.СВЕТИЛЬНИКИ</category>
+      <category id="21925" parentId="21831">07.01.01.С КРЕПЛЕНИЕМ</category>
+      <category id="22189" parentId="21925">07.01.01.01.НА ПРИСОСКЕ</category>
+      <category id="22190" parentId="21925">07.01.01.02.НА ШТАТИВЕ</category>
+      <category id="22191" parentId="21925">07.01.01.03.НА ПРИЩЕПКЕ</category>
+      <category id="31008" parentId="21831">07.01.02.БЕЗ КРЕПЛЕНИЯ REV</category>
+      <category id="31010" parentId="21831">07.01.03.БЕЗ КРЕПЛЕНИЯ RITTER</category>
+      <category id="21832" parentId="21794">07.02.ЛАМПЫ  </category>
+      <category id="21926" parentId="21832">07.02.01.E27</category>
+      <category id="21927" parentId="21832">07.02.02.E14</category>
+      <category id="21928" parentId="21832">07.02.03.T8</category>
+      <category id="31007" parentId="21794">07.03.ДЕРЖАТЕЛИ ДЛЯ ЛАМП</category>
+      <category id="21795">08.ПРОЖЕКТОРЫ</category>
+      <category id="21833" parentId="21795">08.01.АВТОНОМНЫЕ</category>
+      <category id="21929" parentId="21833">08.01.01.АККУМУЛЯТОРНЫЕ</category>
+      <category id="21930" parentId="21833">08.01.02.НА СОЛНЕЧНОЙ БАТАРЕЕ</category>
+      <category id="21834" parentId="21795">08.02.ОТ 220В</category>
+      <category id="21931" parentId="21834">08.02.01.ДЛЯ ОСВЕЩЕНИЯ</category>
+      <category id="22192" parentId="21931">08.02.01.01.Ritter PROFI</category>
+      <category id="22388" parentId="22192">08.02.01.01.01.БЕЗ ДАТЧИКА ДВИЖЕНИЯ 4000К</category>
+      <category id="22389" parentId="22192">08.02.01.01.02.БЕЗ ДАТЧИКА ДВИЖЕНИЯ 6500К</category>
+      <category id="22390" parentId="22192">08.02.01.01.03.С ДАТЧИКОМ ДВИЖЕНИЯ 6500К</category>
+      <category id="59142" parentId="22192">08.02.01.01.04.БЕЗ ДАТЧИКА ДВИЖЕНИЯ 2700К</category>
+      <category id="22193" parentId="21931">08.02.01.02.ULTRA SLIM</category>
+      <category id="22391" parentId="22193">08.02.01.02.01.БЕЗ ДАТЧИКА ДВИЖЕНИЯ 4000К</category>
+      <category id="22392" parentId="22193">08.02.01.02.02.БЕЗ ДАТЧИКА ДВИЖЕНИЯ 6500К</category>
+      <category id="22393" parentId="22193">08.02.01.02.03.С ДАТЧИКОМ ДВИЖЕНИЯ 6500К</category>
+      <category id="22394" parentId="22193">08.02.01.02.04.НА ПОДСТАВКЕ 6500К</category>
+      <category id="22194" parentId="21931">08.02.01.03.duwi</category>
+      <category id="22195" parentId="21931">08.02.01.04.Ritter RGB</category>
+      <category id="28927" parentId="21931">08.02.01.05.no name</category>
+      <category id="21932" parentId="21834">08.02.02.ИНФРАКРАСНЫЕ</category>
+      <category id="21835" parentId="21795">08.03.АКСЕССУАРЫ ДЛЯ ПРОЖЕКТОРОВ</category>
+      <category id="21933" parentId="21835">08.03.01.ШТАТИВЫ</category>
+      <category id="21796">09.ПОДСВЕТКА ЗДАНИЙ, СООРУЖЕНИЙ И САДОВ</category>
+      <category id="21836" parentId="21796">09.01.ДЕКОРАТИВНОЕ НАСТЕННОЕ ОСВЕЩЕНИЕ</category>
+      <category id="21934" parentId="21836">09.01.01.СВЕТОДИОДНЫЕ</category>
+      <category id="22196" parentId="21934">09.01.01.01.NUOVO</category>
+      <category id="60679" parentId="22196">09.01.01.01.01.МЕТАЛЛИЧЕСКИЙ КОРПУС</category>
+      <category id="60680" parentId="22196">09.01.01.01.02.ПЛАСТИКОВЫЙ КОРПУС</category>
+      <category id="21935" parentId="21836">09.01.02.ПОД ЛАМПОЧКУ</category>
+      <category id="22197" parentId="21935">09.01.02.01.TECHNO</category>
+      <category id="22198" parentId="21935">09.01.02.02.STELO</category>
+      <category id="22199" parentId="21935">09.01.02.03.BASIS</category>
+      <category id="22200" parentId="21935">09.01.02.04.LESETR</category>
+      <category id="22201" parentId="21935">09.01.02.05.LOUSANNE</category>
+      <category id="22202" parentId="21935">09.01.02.06.SHEFFIELD</category>
+      <category id="22203" parentId="21935">09.01.02.07.CRESPO</category>
+      <category id="21837" parentId="21796">09.02.ДЕКОРАТИВНОЕ ПОТОЛОЧНОЕ ОСВЕЩЕНИЕ</category>
+      <category id="21936" parentId="21837">09.02.01.ПОД ЛАМПОЧКУ</category>
+      <category id="22204" parentId="21936">09.02.01.01.BASIS</category>
+      <category id="22205" parentId="21936">09.02.01.02.LESTER</category>
+      <category id="22206" parentId="21936">09.02.01.03.LOUSANNE</category>
+      <category id="22207" parentId="21936">09.02.01.04.RIGA</category>
+      <category id="21838" parentId="21796">09.03.ОСВЕЩЕНИЕ САДОВЫХ ДОРОЖЕК</category>
+      <category id="21937" parentId="21838">09.03.01.СВЕТОДИОДНЫЕ</category>
+      <category id="22208" parentId="21937">09.03.01.01.NUOVO</category>
+      <category id="21938" parentId="21838">09.03.02.ПОД ЛАМПОЧКУ</category>
+      <category id="22209" parentId="21938">09.03.02.01.TECHNO</category>
+      <category id="22210" parentId="21938">09.03.02.02.BASIS</category>
+      <category id="22211" parentId="21938">09.03.02.03.LOUSANNE</category>
+      <category id="22212" parentId="21938">09.03.02.04.RIGA</category>
+      <category id="22213" parentId="21938">09.03.02.05.STELO</category>
+      <category id="21839" parentId="21796">09.04.ПОДСВЕТКА СТУПЕНЕЙ</category>
+      <category id="21797">10.ПРОМ ОСВЕЩЕНИЕ</category>
+      <category id="21840" parentId="21797">10.01.UFO / HIGHBAY</category>
+      <category id="21798">11.ОСВЕЩЕНИЕ ДОРОГ ПЛОЩАДЕЙ</category>
+      <category id="21841" parentId="21798">11.01.СВЕТОВОЕ ОБОРУДОВАНИЕ</category>
+      <category id="21842" parentId="21798">11.02.АКСЕССУАРЫ </category>
+      <category id="21799">12.ФОНАРИ</category>
+      <category id="21843" parentId="21799">12.01.СТАЦИОНАРНЫЕ</category>
+      <category id="21939" parentId="21843">12.01.01.PUSHLIGHT</category>
+      <category id="21940" parentId="21843">12.01.02.С ДАТЧИКОМ ДВИЖЕНИЯ</category>
+      <category id="21941" parentId="21843">12.01.03.БЕЗ ДАТЧИКА ДВИЖЕНИЯ</category>
+      <category id="21844" parentId="21799">12.02.МОБИЛЬНЫЕ</category>
+      <category id="21942" parentId="21844">12.02.01.ПРОЖЕКТОРНЫЕ</category>
+      <category id="22214" parentId="21942">12.02.01.01.БАТАРЕЙКАХ</category>
+      <category id="22215" parentId="21942">12.02.01.02.АККУМУЛЯТОРНЫЕ</category>
+      <category id="22216" parentId="21942">12.02.01.03.НА ПОДСТАВКЕ</category>
+      <category id="21943" parentId="21844">12.02.02.БРЕЛОКИ</category>
+      <category id="21944" parentId="21844">12.02.03.РУЧНЫЕ</category>
+      <category id="22217" parentId="21944">12.02.03.01.НА БАТАРЕЙКАХ</category>
+      <category id="22218" parentId="21944">12.02.03.02.АККУМУЛЯТОРНЫЕ</category>
+      <category id="21945" parentId="21844">12.02.04.НАЛОБНЫЕ</category>
+      <category id="22219" parentId="21945">12.02.04.01.НА БАТАРЕЙКАХ</category>
+      <category id="22220" parentId="21945">12.02.04.02.АККУМУЛЯТОРНЫЕ</category>
+      <category id="21946" parentId="21844">12.02.05.КЕМПИНГОВЫЕ</category>
+      <category id="21800">13.USB АККУМУЛЯТОРЫ</category>
+      <category id="21845" parentId="21800">13.01.АА</category>
+      <category id="21846" parentId="21800">13.02.ААА</category>
+      <category id="21847" parentId="21800">13.03.КРОНА</category>
+      <category id="21848" parentId="21800">13.04.КАБЕЛЬ ДЛЯ ЗАРЯДКИ АККУМУЛЯОРОВ</category>
+      <category id="21801">14.ОСВЕЩЕНИЕ ДЛЯ ПРАЗДНИКА</category>
+      <category id="21849" parentId="21801">14.01.ДИСКО ЛАМПЫ</category>
+      <category id="21947" parentId="21849">14.01.01.ЦОКОЛЬНЫЕ</category>
+      <category id="21948" parentId="21849">14.01.02.РОЗЕТОЧНЫЕ</category>
+      <category id="21850" parentId="21801">14.02.НОВОГОДНИЕ СВЕТИЛЬНИКИ</category>
+      <category id="21949" parentId="21850">14.02.01.ОТ 220В</category>
+      <category id="21950" parentId="21850">14.02.02.НА БАТАРЕЙКАХ</category>
+      <category id="21851" parentId="21801">14.03.ЛАМПЫ ДЛЯ БЛОГЕРОВ</category>
+      <category id="21802">15.ДАТЧИКИ</category>
+      <category id="21852" parentId="21802">15.01.ДАТЧИКИ ДВИЖЕНИЯ</category>
+      <category id="21951" parentId="21852">15.01.01.НАСТЕННЫЕ</category>
+      <category id="22221" parentId="21951">15.01.01.01.НАКЛАДНЫЕ</category>
+      <category id="22222" parentId="21951">15.01.01.02.ВСТРАИВАЕМЫЕ</category>
+      <category id="21952" parentId="21852">15.01.02.ПОТОЛОЧНЫЕ</category>
+      <category id="22223" parentId="21952">15.01.02.01.НАКЛАДНЫЕ</category>
+      <category id="22224" parentId="21952">15.01.02.02.ВСТРАИВАЕМЫЕ</category>
+      <category id="21953" parentId="21852">15.01.03.ИНТЕГРИРУЕМЫЕ</category>
+      <category id="21954" parentId="21852">15.01.04.ВЫНОСНЫЕ</category>
+      <category id="21853" parentId="21802">15.02.ДАТЧИКИ ОСВЕЩЕНИЯ (ФОТОРЕЛЕ)</category>
+      <category id="21955" parentId="21853">15.02.01.ВЫНОСНЫЕ</category>
+      <category id="21956" parentId="21853">15.02.02.В ПАТРОН</category>
+      <category id="21957" parentId="21853">15.02.03.НА DIN РЕЙКУ</category>
+      <category id="21854" parentId="21802">15.03.ДАТЧИКИ БЕЗОПАСНОСТИ</category>
+      <category id="21958" parentId="21854">15.03.01.ДАТЧИК ДЫМА</category>
+      <category id="21803">16.ТАЙМЕРЫ</category>
+      <category id="21855" parentId="21803">16.01.МЕХАНИЧЕСКИЕ</category>
+      <category id="21959" parentId="21855">16.01.01.ДЛЯ РОЗЕТКИ</category>
+      <category id="21960" parentId="21855">16.01.02.НА DIN РЕЙКУ</category>
+      <category id="21856" parentId="21803">16.02.ЭЛЕКТРОННЫЕ</category>
+      <category id="21961" parentId="21856">16.02.01.ДЛЯ РОЗЕТКИ</category>
+      <category id="21962" parentId="21856">16.02.02.НА DIN РЕЙКУ</category>
+      <category id="21804">17.УДЛИНИТЕЛИ, СЕТЕВЫЕ ФИЛЬТРЫ, ТРОЙНИКИ</category>
+      <category id="21857" parentId="21804">17.01.УДЛИНИТЕЛИ</category>
+      <category id="21963" parentId="21857">17.01.01.БЫТОВЫЕ Б/З ДО 10 А</category>
+      <category id="22225" parentId="21963">17.01.01.01.ШВВП</category>
+      <category id="22226" parentId="21963">17.01.01.02.ПВС</category>
+      <category id="22395" parentId="22226">17.01.01.02.01.БЕЗ ДЕРЖАТЕЛЯ</category>
+      <category id="22396" parentId="22226">17.01.01.02.02.С ДЕРЖАТЕЛЕМ</category>
+      <category id="21964" parentId="21857">17.01.02.БЫТОВЫЕ С/З ДО 10 А</category>
+      <category id="22227" parentId="21964">17.01.02.01.БЕЗ ДЕРЖАТЕЛЯ</category>
+      <category id="22228" parentId="21964">17.01.02.02.С ДЕРЖАТЕЛЕМ</category>
+      <category id="21965" parentId="21857">17.01.03.БЫТОВЫЕ С/З ДО 16 А</category>
+      <category id="22229" parentId="21965">17.01.03.01.БЕЗ ДЕРЖАТЕЛЯ</category>
+      <category id="22230" parentId="21965">17.01.03.02.С ДЕРЖАТЕЛЕМ</category>
+      <category id="22231" parentId="21965">17.01.03.03.С КНОПКОЙ</category>
+      <category id="22232" parentId="21965">17.01.03.04.С USB ПОРТАМИ</category>
+      <category id="21966" parentId="21857">17.01.04.УДЛИНИТЕЛИ САДОВЫЕ</category>
+      <category id="22233" parentId="21966">17.01.04.01.БЕЗ КАТУШКИ</category>
+      <category id="30113" parentId="21966">17.01.04.02.10А</category>
+      <category id="30115" parentId="21966">17.01.04.03.НА КАТУШКЕ</category>
+      <category id="21858" parentId="21804">17.02.СЕТЕВЫЕ ФИЛЬТРЫ</category>
+      <category id="21968" parentId="21858">17.02.01.БЕЛЫЕ</category>
+      <category id="21969" parentId="21858">17.02.02.СЛОНОВАЯ КОСТЬ</category>
+      <category id="21970" parentId="21858">17.02.03.ЧЕРНЫЕ</category>
+      <category id="62678" parentId="21970">17.02.03.01.DUWI</category>
+      <category id="62680" parentId="21970">17.02.03.02.no name</category>
+      <category id="21859" parentId="21804">17.03.ТРОЙНИКИ/АДАПТЕРЫ</category>
+      <category id="21971" parentId="21859">17.03.01.LEBEDEV</category>
+      <category id="21972" parentId="21859">17.03.02.ТРОЙНИКИ </category>
+      <category id="21973" parentId="21859">17.03.03.АДАПТЕРЫ</category>
+      <category id="21805">18.КОЛОДКИ, ВИЛКИ, КАБЕЛЬНЫЕ РОЗЕТКИ</category>
+      <category id="21860" parentId="21805">18.01.КОЛОДКИ </category>
+      <category id="21974" parentId="21860">18.01.01.ПРАСТИКОВЫЕ IP 20</category>
+      <category id="22236" parentId="21974">18.01.01.01.БЕЗ ЗАЗЕМЛЕНИЯ</category>
+      <category id="22237" parentId="21974">18.01.01.02.С ЗАЗЕМЛЕНИЕМ</category>
+      <category id="21975" parentId="21860">18.01.02.КАУЧУКОВЫЕ IP54</category>
+      <category id="21861" parentId="21805">18.02.ВИЛКИ</category>
+      <category id="21976" parentId="21861">18.02.01.ПЛАСТИКОВЫЕ IP20</category>
+      <category id="22238" parentId="21976">18.02.01.01.БЕЗ ЗАЗЕМЛЕНИЯ</category>
+      <category id="22239" parentId="21976">18.02.01.02.С ЗАЗЕМЛЕНИЕМ</category>
+      <category id="21977" parentId="21861">18.02.02.КАУЧУКОВЫЕ IP44</category>
+      <category id="21862" parentId="21805">18.03.КАБЕЛЬНЫЕ РОЗЕТКИ</category>
+      <category id="21978" parentId="21862">18.03.01.ПЛАСТИКОВЫЕ IP20</category>
+      <category id="22240" parentId="21978">18.03.01.01.БЕЗ ЗАЗЕМЛЕНИЯ</category>
+      <category id="22241" parentId="21978">18.03.01.02.С ЗАЗЕМЛЕНИЕМ</category>
+      <category id="21979" parentId="21862">18.03.02.IP44</category>
+      <category id="21806">19.ПАТРОНЫ И ПЕРЕХОДНИКИ</category>
+      <category id="21863" parentId="21806">19.01.ПАТРОНЫ Е27</category>
+      <category id="21980" parentId="21863">19.01.01.ПЛАСТИКОВЫЕ БЕЗ КОЛЬЦА</category>
+      <category id="21981" parentId="21863">19.01.02.ПЛАСТИКОВЫЕ С КОЛЬЦОМ</category>
+      <category id="21982" parentId="21863">19.01.03.КЕРАМИЧЕСКИЕ ПАТРОНЫ</category>
+      <category id="21983" parentId="21863">19.01.04.НАСТЕННО-ПОТОЛОЧНЫЕ</category>
+      <category id="21984" parentId="21863">19.01.05.ДЛЯ РЕМОНТНЫХ РАБОТ</category>
+      <category id="21864" parentId="21806">19.02.ПАТРОНЫ Е14</category>
+      <category id="21985" parentId="21864">19.02.01.ПЛАСТИКОВЫЕ БЕЗ КОЛЬЦА</category>
+      <category id="21986" parentId="21864">19.02.02.ПЛАСТИКОВЫЕ С КОЛЬЦОМ</category>
+      <category id="21987" parentId="21864">19.02.03.КЕРАМИЧЕСКИЕ ПАТРОНЫ</category>
+      <category id="21865" parentId="21806">19.03.ПАТРОНЫ ДЛЯ ГАЛОГЕНОВЫХ ЛАМП</category>
+      <category id="21866" parentId="21806">19.04.ПАТРОНЫ ДЛЯ ЛЮМИНИСЦЕНТНЫХ ЛАМП</category>
+      <category id="21867" parentId="21806">19.05.ПАТРОНЫ - РОЗЕТКИ </category>
+      <category id="21868" parentId="21806">19.06.ПЕРЕХОДНИКИ</category>
+      <category id="21988" parentId="21868">19.06.01.ЦОКОЛЬНЫЕ</category>
+      <category id="21989" parentId="21868">19.06.02.РОЗЕТОЧНЫЕ</category>
+      <category id="21869" parentId="21806">19.07.РАЗВЕТВИТЕЛИ</category>
+      <category id="21807">20.КНОПКИ - ВЫКЛЮЧАТЕЛИ</category>
+      <category id="21870" parentId="21807">20.01.ДЛЯ ПРИБОРОВ</category>
+      <category id="21990" parentId="21870">20.01.01.КЛАВИШНЫЕ</category>
+      <category id="21991" parentId="21870">20.01.02.КНОПОЧНЫЕ</category>
+      <category id="21992" parentId="21870">20.01.03.ТУМБЛЕРЫ </category>
+      <category id="21808">21.ИЗДЕЛИЯ ДЛЯ КРЕПЛЕНИЯ И ИЗОЛЯЦИИ ПРОВОДОВ</category>
+      <category id="21871" parentId="21808">21.01.КЛЕММЫ</category>
+      <category id="21993" parentId="21871">21.01.01.КЛЕММЫ ЗАЖИМНЫЕ </category>
+      <category id="22242" parentId="21993">21.01.01.01.РЫЧАЖКОВЫЕ</category>
+      <category id="22243" parentId="21993">21.01.01.02.САМОЗАЖИМНЫЕ</category>
+      <category id="21994" parentId="21871">21.01.02.КЛЕММЫ ВИНТОВЫЕ</category>
+      <category id="22244" parentId="21994">21.01.02.01.ЧЕРНЫЕ</category>
+      <category id="22245" parentId="21994">21.01.02.02.БЕЛЫЕ</category>
+      <category id="21872" parentId="21808">21.02.ЗАЖИМЫ</category>
+      <category id="21995" parentId="21872">21.02.01.БЕЗ ЛЕПЕСТКОВ</category>
+      <category id="21996" parentId="21872">21.02.02.С ЛЕПЕСТКАМИ</category>
+      <category id="21873" parentId="21808">21.03.НАКОНЕЧНИКИ</category>
+      <category id="21997" parentId="21873">21.03.01.НАКОНЕЧНИКИ-ГИЛЬЗЫ</category>
+      <category id="59143" parentId="21997">21.03.01.01.ОДИНАРНЫЕ</category>
+      <category id="59144" parentId="21997">21.03.01.02.ДВОЙНЫЕ</category>
+      <category id="21998" parentId="21873">21.03.02.НАКОНЕЧНИКИ ВИЛОЧНЫЕ НВИ</category>
+      <category id="21999" parentId="21873">21.03.03.НАКОНЕЧНИКИ МЕДНЫЕ ЛУЖЕНЫЕ</category>
+      <category id="21874" parentId="21808">21.04.ОТВЕТВИТЕЛИ</category>
+      <category id="21875" parentId="21808">21.05.РАЗЪЕМЫ</category>
+      <category id="21876" parentId="21808">21.06.ГИЛЬЗЫ</category>
+      <category id="22000" parentId="21876">21.06.01.ИЗОЛИРОВАННЫЕ</category>
+      <category id="22001" parentId="21876">21.06.02.МЕДНЫЕ ЛУЖЕНЫЕ</category>
+      <category id="21877" parentId="21808">21.07.ХОМУТЫ-СТЯЖКИ И АКСЕССУАРЫ</category>
+      <category id="22002" parentId="21877">21.07.01.ХОМУТЫ-СТЯЖКИ</category>
+      <category id="22246" parentId="22002">21.07.01.01.80х2,5 мм.</category>
+      <category id="22247" parentId="22002">21.07.01.02.100х2,5 мм.</category>
+      <category id="22248" parentId="22002">21.07.01.03.100х3,6 мм.</category>
+      <category id="22249" parentId="22002">21.07.01.04.120х2,5 мм.</category>
+      <category id="22250" parentId="22002">21.07.01.05.120х3,6 мм.</category>
+      <category id="22251" parentId="22002">21.07.01.06.150х2,5 мм.</category>
+      <category id="22252" parentId="22002">21.07.01.07.150х3,6 мм.</category>
+      <category id="22253" parentId="22002">21.07.01.08.200х3,6 мм.</category>
+      <category id="22254" parentId="22002">21.07.01.09.200х2,5 мм.</category>
+      <category id="22255" parentId="22002">21.07.01.10.200х4,3 мм.</category>
+      <category id="22256" parentId="22002">21.07.01.11.200х4,6 мм.</category>
+      <category id="22257" parentId="22002">21.07.01.12.200х4,8 мм.</category>
+      <category id="22258" parentId="22002">21.07.01.13.220х4,3 мм.</category>
+      <category id="22259" parentId="22002">21.07.01.14.250х3,6 мм.</category>
+      <category id="22260" parentId="22002">21.07.01.15.300х3,6 мм.</category>
+      <category id="22261" parentId="22002">21.07.01.16.300х4,8 мм.</category>
+      <category id="22262" parentId="22002">21.07.01.17.350х4,8 мм.</category>
+      <category id="22263" parentId="22002">21.07.01.18.368х4,8 мм.</category>
+      <category id="22264" parentId="22002">21.07.01.19.380х7,6 мм.</category>
+      <category id="22003" parentId="21877">21.07.02.СКОБЫ КАБЕЛЬНЫЕ</category>
+      <category id="22265" parentId="22003">21.07.02.01.КРУГЛЫЕ</category>
+      <category id="22266" parentId="22003">21.07.02.02.ПЛОСКИЕ</category>
+      <category id="22004" parentId="21877">21.07.04.ПЛОЩАДКИ ДЛЯ ХОМУТОВ</category>
+      <category id="22267" parentId="22004">21.07.04.01.САМОКЛЯЩИЕСЯ</category>
+      <category id="22268" parentId="22004">21.07.04.02.ПОД ВИНТ</category>
+      <category id="22005" parentId="21877">21.07.05.ДЮБЕЛЬ_ХОМУТЫ</category>
+      <category id="59147" parentId="21877">21.07.03.ПЛОЩАДКИ ДЛЯ ПРОВОДОВ</category>
+      <category id="59148" parentId="59147">21.07.03.01.САМОКЛЕЮЩИЕСЯ</category>
+      <category id="21878" parentId="21808">21.08.ТЕРМОУСАДОЧНЫЕ ТРУБКИ</category>
+      <category id="21879" parentId="21808">21.10.ИЗОЛЕНТА</category>
+      <category id="22006" parentId="21879">21.10.01.ИЗОЛЕНТА ПВХ</category>
+      <category id="22269" parentId="22006">21.10.01.01.ЧЕРНАЯ</category>
+      <category id="22270" parentId="22006">21.10.01.02.СИНЯЯ</category>
+      <category id="22271" parentId="22006">21.10.01.03.ЗЕЛЕНАЯ</category>
+      <category id="22272" parentId="22006">21.10.01.04.КРАСНАЯ</category>
+      <category id="22273" parentId="22006">21.10.01.05.ЖЕЛТАЯ</category>
+      <category id="22274" parentId="22006">21.10.01.06.БЕЛАЯ</category>
+      <category id="22275" parentId="22006">21.10.01.07.ЖЕЛТО ЗЕЛЕНАЯ</category>
+      <category id="22007" parentId="21879">21.10.02.ИЗОЛЕНТА ХБ</category>
+      <category id="22276" parentId="22007">21.10.02.01.ЧЕРНАЯ</category>
+      <category id="59145" parentId="21808">21.09.КОМПАУНДЫ</category>
+      <category id="59146" parentId="59145">21.09.01.ПОЛИМЕРНЫЕ</category>
+      <category id="21809">22.ИНСТРУМЕНТ ЭЛЕКТРИКА</category>
+      <category id="21880" parentId="21809">22.01.ЗАЧИСТКА И ОБЖИМ</category>
+      <category id="22008" parentId="21880">22.01.01.ЗАЧИСТКА КАБЕЛЯ</category>
+      <category id="22009" parentId="21880">22.01.02.ОБЖИМ</category>
+      <category id="22010" parentId="21880">22.01.03.ЗАТЯГИВАНИЕ СТЯЖЕК</category>
+      <category id="21881" parentId="21809">22.02.МУЛЬТИМЕТРЫ</category>
+      <category id="22011" parentId="21881">22.02.01.МУЛЬТИМЕТРЫ</category>
+      <category id="22012" parentId="21881">22.02.02.ТОКОИЗМЕРИТЕЛЬНЫЕ КЛЕЩИ</category>
+      <category id="22013" parentId="21881">22.02.03.АКСЕССУАРЫ ДЛЯ МУЛЬТИМЕТРОВ</category>
+      <category id="21882" parentId="21809">22.03.ЭЛЕКТРОИЗМЕРИТЕЛЬНЫЕ ПРИБОРЫ</category>
+      <category id="22014" parentId="21882">22.03.01.ИНДИКАТОРЫ НАПРЯЖЕНИЯ</category>
+      <category id="22015" parentId="21882">22.03.02.ДЕТЕКТОР МЕТАЛЛА</category>
+      <category id="21810">23.КАБЕЛЬ И ПРОВОДА</category>
+      <category id="21883" parentId="21810">23.01.220В</category>
+      <category id="22016" parentId="21883">23.01.01.ПВС ГОСТ</category>
+      <category id="22277" parentId="22016">23.01.01.01.ДВУЖИЛЬНЫЙ</category>
+      <category id="22278" parentId="22016">23.01.01.02.ТРЕХЖИЛЬНЫЕ</category>
+      <category id="22017" parentId="21883">23.01.02.ВВГнг-П ГОСТ</category>
+      <category id="22279" parentId="22017">23.01.02.01.ДВУЖИЛЬНЫЙ</category>
+      <category id="22280" parentId="22017">23.01.02.02.ТРЕХЖИЛЬНЫЙ</category>
+      <category id="22018" parentId="21883">23.01.03.NYM ГОСТ</category>
+      <category id="22281" parentId="22018">23.01.03.01.ДВУЖИЛЬНЫЙ</category>
+      <category id="22282" parentId="22018">23.01.03.02.ТРЕХЖИЛЬНЫй</category>
+      <category id="21884" parentId="21810">23.02.СЛАБОТОЧНЫЙ</category>
+      <category id="22019" parentId="21884">23.02.01.КОАКСИАЛЬНЫЙ КАБЕЛЬ</category>
+      <category id="21811">24.РАМКИ, РОЗЕТКИ И ВЫКЛЮЧАТЕЛИ</category>
+      <category id="21885" parentId="21811">24.01.НАКЛАДНЫЕ</category>
+      <category id="22020" parentId="21885">24.01.01.PALAZZO VINTAGE</category>
+      <category id="22283" parentId="22020">24.01.01.01.БЕЛОЕ ЗОЛОТО </category>
+      <category id="22284" parentId="22020">24.01.01.02.БРОНЗА</category>
+      <category id="22285" parentId="22020">24.01.01.03.СЕРЕБРО  </category>
+      <category id="22021" parentId="21885">24.01.02.PALAZZO</category>
+      <category id="22286" parentId="22021">24.01.02.01.СЛОНОВАЯ КОСТЬ</category>
+      <category id="22022" parentId="21885">24.01.03.BASIS</category>
+      <category id="22287" parentId="22022">24.01.03.01.БЕЛЫЙ</category>
+      <category id="21886" parentId="21811">24.02.ВСТРАИВАЕМЫЕ</category>
+      <category id="22023" parentId="21886">24.02.01.PALAZZO VINTAGE</category>
+      <category id="22288" parentId="22023">24.02.01.01.ЗОЛОТО</category>
+      <category id="22289" parentId="22023">24.02.01.02.СЕРЕБРО</category>
+      <category id="22290" parentId="22023">24.02.01.03.МЕДЬ</category>
+      <category id="22291" parentId="22023">24.02.01.04.ЗОЛОТО</category>
+      <category id="22292" parentId="22023">24.02.01.05.СЛОНОВАЯ КОСТЬ</category>
+      <category id="22024" parentId="21886">24.02.02.PALAZZO</category>
+      <category id="22293" parentId="22024">24.02.02.01.БЕЛЫЙ</category>
+      <category id="22294" parentId="22024">24.02.02.02.ЧЕРНЫЙ</category>
+      <category id="22025" parentId="21886">24.02.03.BASIS</category>
+      <category id="22295" parentId="22025">24.02.03.01.БЕЛЫЙ</category>
+      <category id="21887" parentId="21811">24.03.КНОПКА ДЛЯ ЗВОНКА</category>
+      <category id="22026" parentId="21887">24.03.01.BASIS</category>
+      <category id="21888" parentId="21811">24.04.КОРОБКИ УСТАНОВОЧНЫЕ</category>
+      <category id="22027" parentId="21888">24.04.01.PALAZZO VINTAGE</category>
+      <category id="22296" parentId="22027">24.04.01.01.БЕЛОЕ ЗОЛОТО</category>
+      <category id="22297" parentId="22027">24.04.01.02.БРОНЗА</category>
+      <category id="22298" parentId="22027">24.04.01.03.СЕРЕБРО</category>
+      <category id="22028" parentId="21888">24.04.02.PALAZZO</category>
+      <category id="22299" parentId="22028">24.04.02.01.СЛОНОВАЯ КОСТЬ</category>
+      <category id="21889" parentId="21811">24.05.АКСЕССУАРЫ</category>
+      <category id="22029" parentId="21889">24.05.01.PALAZZO</category>
+      <category id="60422">03.ТРЕКОВОЕ ОСВЕЩЕНИЕ</category>
+      <category id="60423" parentId="60422">03.01.ШИНОПРОВОД И АКСЕССУАРЫ</category>
+      <category id="60425" parentId="60423">03.01.01.ШИНОПРОВОД</category>
+      <category id="60426" parentId="60423">03.01.02.АКСЕССУАРЫ</category>
+      <category id="60436" parentId="60426">03.01.02.01.ПОДВЕСЫ</category>
+      <category id="60437" parentId="60426">03.01.02.03.КОННЕКТОРЫ</category>
+      <category id="60438" parentId="60426">03.01.02.02.ЗАГЛУШКИ</category>
+      <category id="60439" parentId="60426">03.01.02.04.ПЛАНКИ</category>
+      <category id="60424" parentId="60422">03.02.СВЕТИЛЬНИКИ</category>
+      <category id="60427" parentId="60424">03.02.01.НАКЛАДНЫЕ</category>
+      <category id="60431" parentId="60427">03.02.01.01.LED</category>
+      <category id="60432" parentId="60427">03.02.01.02.GU10</category>
+      <category id="60433" parentId="60427">03.02.01.03.GX53</category>
+      <category id="60429" parentId="60424">03.02.02.ПОДВЕСНЫЕ</category>
+      <category id="60434" parentId="60429">03.02.02.01.LED</category>
+      <category id="60435" parentId="60429">03.02.02.02.GU10</category>
+      <category id="70938">25.ТВ И СПУТНИКОВЫЕ АНТЕННЫ И АКСЕССУАРЫ</category>
+      <category id="70939" parentId="70938">25.01.ТВ И СПУТНИКОВЫЕ АНТЕННЫ</category>
+      <category id="70940" parentId="70938">25.02.АКСЕССУАРЫ</category>
+    </categories>
+    <offers>
+      <offer id="1">
+        <name>Хомут кабельный, нейлоновый, 200x2,5мм, черная, 100шт., 30264 3, duwi</name>
+        <price>10000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>22010</categoryId>
+        <vendor>duwi</vendor>
+        <vendorCode>30264 3</vendorCode>
+        <outlets>
+          <outlet id="1" instock="255"/>
+        </outlets>
+        <picture>http://pim.rev.ru/mi/30264_3</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
